@@ -1,8 +1,16 @@
+#icono{
+    background: url(./bocchi.png) no-repeat;
+    height: 40px;
+    width: 40px;
+    margin-right: 8px;
+    margin-top: 1px;
+}
+
 #cabecera{
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     width: 1341px;
-    height: 34px;
+    height: 43px;
     background-color: blueviolet;
     color: azure;
     font-size: 28px;
