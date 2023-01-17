@@ -1,4 +1,4 @@
-# hyperblog :tw-1f49a:
+# hyperblog 💚💚
 un blog increible para el curso de git y github de platzi
 
 [![sewer](https://i.imgur.com/y3Vq9uq.jpeg "sewer")](https://i.imgur.com/y3Vq9uq.jpeg "sewer")
