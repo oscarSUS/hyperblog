@@ -37,5 +37,6 @@ Se larga de la Uni y follamos en el acto
 
 **-puto el que lo lea**
 
-creado por wolf
-incluye ejemplos en linux windows y mac
+*creado por wolf
+*incluye ejemplos en linux windows y mac
+*para todas las edades
